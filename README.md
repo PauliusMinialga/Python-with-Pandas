@@ -33,7 +33,7 @@ The dataset consists of time-series energy consumption readings for both buildin
    pip install pandas matplotlib
 3. **Run the analysis script:**
    ```bash
-   python analysis.py
+   After opening the jupyter notebook **analysis.ipynb** at the top of the file press **Run All**
 ## Expected Output
 - A summary of total energy consumption for both buildings.
 - A graph comparing the energy consumption trends over time.
